@@ -1,0 +1,43 @@
+ body{
+    background-color: aquamarine;
+    font-family:  sans-serif;
+    padding-left: 5em;
+    padding-right:5em ;
+
+ }
+ .fondoBlanco{
+    background-color: white;
+
+ }
+ .fondoNaranja{
+    background-color: rgb(226, 134, 14);
+ }
+ .fondoNegro{
+    background-color: black;
+ }
+ .letrasazules{
+    color: blue;
+    border: 4px;
+    text-align: center;
+ }
+ .texto1{
+    font-size: 1em;
+    color: white   ;
+    text-align: center;
+ }
+ .texto3{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .separacion{
+    padding: 1em;
+    background-color: rgb(190, 138, 238);
+ }
+.imagen{
+    width: 150px;
+
+}
+.borde{
+    border: 10px white;
+    border-radius: 10px;
+}
